@@ -1,19 +1,19 @@
 # Configuration that is shared between all of the pages in this assignment.
 #
 # Git stuff
-git-curr-branch:
+git-curr-branch: start-here
 git-prev-branch: 
 # Link to an external lesson (e.g., a lesson on Code.org or TestOut).
 lesson:
 # If not empty, display the text at the top of the page (or wherever the template does the include of outcome.html)
 # below the tabs
-outcome:
+outcome: You've identified the bugs in Prototype-2, created issues to describe them, and worked on a team to fix them.
 # Link to lesson slides, displayed on Resources tab if not empty.
 slides:
 # Name and URL of repository holding the starter code for this assignment.
-starter-code-org:
-starter-code-repo:
-starter-code-url:
+starter-code-org: SKHS-GDP2-S2A1-2019-2020
+starter-code-repo: Prototype-2-Debugging-Challenge
+starter-code-url: https://github.com/SKHS-GDP2-S2A1-2019-2020/Prototype-2-Debugging-Challenge
 # Link to Google Doc template for assignment submission. Replace the end of the link "edit?..." with "copy"
 # to force creating a copy when the link is clicked.
 template:
