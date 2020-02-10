@@ -6,9 +6,9 @@ layout: tabbed-assignment
 
 By the end of this lesson, you will be able to:
 
-* 
-* 
-* 
+* Adjust variables in the Unity **Inspector** pane to tune the gameplay to your liking.
+* Explain the relationship between values of variables in a C# script (e.g., **PlayerController.cs**) and the values set in the Inspector.
+* Use the GitHub **Issues** system to track and collaborate on solving bugs and other problems in a project.
 
 <!-- Don't edit links here, change them in _data/assignment.yml instead, -->
 
