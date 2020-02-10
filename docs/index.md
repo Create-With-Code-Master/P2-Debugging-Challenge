@@ -6,7 +6,7 @@ layout: tabbed-assignment
 
 <img class="overview-image" src="assets/images/prototype-2-banner.png">
 
-In this lesson we'll take a step back and look over the code for [Prototype 2][lesson[ - the code is has a few bugs and we'll work on fixing them collaboratively using GitHub's **issues** feature.
+In this lesson we'll take a step back and look over the code for [Prototype 2][lesson] - the code is has a few bugs and we'll work on fixing them collaboratively using GitHub's **issues** feature.
 
 <!-- Don't edit links here, change them in _data/assignment.yml instead, -->
 
