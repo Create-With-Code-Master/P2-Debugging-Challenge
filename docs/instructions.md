@@ -21,8 +21,12 @@ With that accomplished, we're going to spend a few minutes tuning the complete v
 1. Make a copy of the [submission template][template].
 1. Start by switching to the **origin/start-here** branch of your clone of the **Prototype 2 Debugging Challenge** repository (this should be the branch that you are already on).
 1. Play the game and make any changes in the Inspector pane that you need to make the game more playable. At this point the game is not intentionally buggy, but there are probably changes that will make it more interesting to play. **Record those changes on your submission template.**
-1. Switch to the **origin/runtime-bugs-unity** branch and go bug hunting. **As you find bugs, create issues for them on the master repository (the one you forked) for your section.**
-  - Add at least one issue.
+1. Switch to the **origin/runtime-bugs-unity** branch and go bug hunting. **As you find bugs, create issues for them on the master repository (the one you forked) for your section.** The bugs you find will all be in the Unity Editor - on this branch there are no *intentional* bugs in the scripts.
+   - Add *at least* one issue.
+   - Comment on *at least* one issue.
+1. Switch to the **origin/runtime-bugs-code** branch and go bug hunting. **As you find bugs, create issues for them on the master repository (the one you forked) for your section.** The bugs you find will all be in the C# scripts - on this branch there are no *intentional* bugs in the Unity Editor.
+   - Add *at least* one issue.
+   - Comment on *at least* one issue.
 
 <!-- Don't edit links here, change them in _data/assignment.yml instead. -->
 
