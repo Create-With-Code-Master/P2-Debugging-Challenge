@@ -16,7 +16,13 @@ By the time you get here you should have:
 * Opened the **Prototype 2** debugging challenge in Unity on your computer.
 * Set the external script editor in Unity's preferences (Edit > Preferences) to **Visual Studio Code**.
 
-With that accomplished, we're going to spend a few minutes tuning the complete version of Prototype 3 to make it more playable. Then we are going to track down bugs in the game, document them using GitHub Issues, and work on fixing them.
+With that accomplished, we're going to spend a few minutes tuning the complete version of Prototype 3 to make it more playable. Then we are going to track down bugs in the game, document them using GitHub Issues, and work on fixing them:
+
+1. Make a copy of the [submission template][template].
+1. Start by switching to the **origin/start-here** branch of your clone of the **Prototype 2 Debugging Challenge** repository (this should be the branch that you are already on).
+1. Play the game and make any changes in the Inspector pane that you need to make the game more playable. At this point the game is not intentionally buggy, but there are probably changes that will make it more interesting to play. **Record those changes on your submission template.**
+1. Switch to the **origin/runtime-bugs-unity** branch and go bug hunting. **As you find bugs, create issues for them on the master repository (the one you forked) for your section.**
+  - Add at least one issue.
 
 <!-- Don't edit links here, change them in _data/assignment.yml instead. -->
 
