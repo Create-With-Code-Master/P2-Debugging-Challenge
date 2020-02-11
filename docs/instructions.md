@@ -9,7 +9,9 @@ layout: tabbed-assignment
 By the time you get here you should have:
 
 * Successfully installed and tested **GitHub Desktop** on your computer.
-* Made a *fork* of the []() repository in your GitHub account.
+* Made a *fork* of the **Prototype 2 Debugging Challenge** repository to your GitHub account. Choose the appropriate repository for your block:
+  - **1st Block:** [Prototype-2-Debugging-Challenge-S2A1](https://github.com/SKHS-GDP2-S2A1-2019-2020/Prototype-2-Debugging-Challenge-S2A1)
+  - **7th Block:** [Prototype-2-Debugging-Challenge-S2B7](https://github.com/SKHS-GDP2-S2B7-2019-2020/Prototype-2-Debugging-Challenge-S2B7)
 * *Cloned* the repository to your Desktop.
 * Opened the **Prototype 2** debugging challenge in Unity on your computer.
 * Set the external script editor in Unity's preferences (Edit > Preferences) to **Visual Studio Code**.
